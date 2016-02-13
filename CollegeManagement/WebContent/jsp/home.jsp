@@ -28,6 +28,7 @@
         <span class="icon-bar"></span>
       </button>
       <a class="navbar-brand" href="#">MIT US</a>
+      <a class="navbar-brand" href="#">${message}</a>
     </div>
 
     <!-- Collect the nav links, forms, and other content for toggling -->
